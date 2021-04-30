@@ -39,10 +39,10 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Py
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Asif-Iqbal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Asif-Iqbal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mustaquenadim)
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Asif-Iqbal)  
+![GitHub metrics](https://metrics.lecoq.io/mustaquenadim)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Asif-Iqbal)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim)
 
-![Profile views](https://gpvc.arturio.dev/Mohammad-Asif-Iqbal)  
+![Profile views](https://gpvc.arturio.dev/mustaquenadim)
