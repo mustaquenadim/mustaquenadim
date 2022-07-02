@@ -53,13 +53,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=5&layout=compact" alt="mustaquenadim" /></p>
-
 <h2 align="center"> 📊 GitHub Analytics 📊 </h2>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim" />
 </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim" /></p>
 
 <h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="mustaquenadim" /></a> </p>
