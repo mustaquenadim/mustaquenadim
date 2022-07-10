@@ -54,26 +54,9 @@
 <h2 align="center">🔗 Connect with Me 🔗</h2>
 
 <p align="center">
-<a href="https://dev.to/mustaquenadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mustaquenadim" height="30" width="40" /></a> -->
-<a href="https://twitter.com/developernadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developernadim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/13283465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13283465" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mustaquenadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://kaggle.com/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mustaquenadim" height="30" width="40" /></a> -->
-<a href="https://fb.com/engr.mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engr.mustaquenadim" height="30" width="40" /></a>
-<a href="https://instagram.com/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://medium.com/@mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustaquenadim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/mustaquenadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/programmer_nadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="programmer_nadim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mustaquenadim" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mustaquenadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mustaquenadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mustaquenadim" height="30" width="40" /></a>
-<a href="https://discord.gg/#6859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6859" height="30" width="40" /></a>
-<a href="/https://media.rss.com/mustaquenadim/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://media.rss.com/mustaquenadim/feed.xml" height="30" width="40" /></a> -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram" />
+  </a>
 </p>
 
 <!-- <h3 align="center">✨ Support ✨</h3>
