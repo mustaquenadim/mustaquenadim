@@ -1,63 +1,122 @@
-![Cover Photo](https://user-images.githubusercontent.com/56265819/176989215-f34717f4-54d2-45dc-ad90-ec10e7d49bcd.png)
+<!-- cover image -->
+<img src="https://user-images.githubusercontent.com/56265819/176989215-f34717f4-54d2-45dc-ad90-ec10e7d49bcd.png" alt="mustaquenadim cover image" />
+<!-- end cover image -->
 
+<br/>
+
+<!-- about me -->
 <h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
+
+<br/>
 
 <!-- :round_pushpin: I'm currently living in **Dhaka, Bangladesh**. -->
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
-:briefcase: I'm currently doing job in **JoulesLabs as a Software Engineer**.
+:briefcase: I'm currently doing full time job at **JoulesLabs** as a **Software Engineer**.
 
-:book: I like to explore new technologies and develop software solutions.
+:book: I like to explore **new technologies and develop software solutions**.
 
-:seedling:  I’m currently learning **data structures and algorithms**.
+:seedling: I’m currently focusing on learning **data structures and algorithms**.
 
 <!-- 🤝  I’m looking for help with **fixing bugs.** -->
 
-👨‍💻  All of my projects are available at [https://mustaquenadim.web.com/projects](https://mustaquenadim.web.com/)
+👨‍💻 All of my projects are available in my [**website**](https://mustaquenadim.web.com/).
 
-📝  Sometimes I write articles on [https://mustaquenadim.medium.com](https://mustaquenadim.medium.com/)
+📝 I write articles on [**Medium**](https://mustaquenadim.medium.com/).
 
-💬  Ask me about **C/C++, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, etc.**
+🏫 I help people to learn **C, C++, JavaScript, React.js, Node.js, Express.js, MongoDB**, etc.
 
-📫  Reach me through **mustaquenadim2000@gmail.com**
+📫 Reach me through **mustaquenadim2000@gmail.com**.
 
-📄  Know about my experiences in my [resume](https://drive.google.com/file/d/1l19oDa1ex8smg7srFmiJnMwznrv5hoxh/view?usp=sharing)
+📄 Know about my experiences in my [**resume**](https://drive.google.com/file/d/1l19oDa1ex8smg7srFmiJnMwznrv5hoxh/view?usp=sharing)
 
 <!-- ⚡  Fun fact **I'm idle so that I always try to code short.** -->
 
-:runner:  I workout **every morning**.
+:runner: I workout **every morning**.
 
-<!-- ## Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- end about me -->
 
+<br/>
+<br/>
+
+<!-- language & tools -->
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,bootstrap,tailwind" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+<!-- end language & tools -->
+
+<br/>
+<br/>
+
+<!-- github analytics -->
+<h2 align="center"> 📊 GitHub Analytics 📊 </h2>
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim github streak stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim most used languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim contribution grid snake" />
+</p>
+<!-- end github analytics -->
+
+<br/>
+<br/>
+
+<!-- github profile trophy -->
+<h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
+
+<br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,react,redux,nodejs,express,mongodb,html,css,git,github,linux,vscode" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="mustaquenadim github profile trophy" />
   </a>
 </p>
+<!-- end github profile trophy -->
 
-<h2 align="center"> 📊 GitHub Analytics 📊 </h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim" />
-</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim" /></p>
-<p align="center"><img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim" /></p>
+<br/>
+<br/>
 
-
-<h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="mustaquenadim" /></a> </p>
-
+<!-- connect with me -->
 <h2 align="center">🔗 Connect with Me 🔗</h2>
 
+<br/>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram" />
+  <a href="https://www.linkedin.com/in/mustaquenadim/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/developernadim/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/mustaquenadim/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+<!-- end connect with me -->
 
 <!-- <h3 align="center">✨ Support ✨</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mustaquenadim"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mustaquenadim" /></a></p> -->
+
+<br/>
+<br/>
+
+<p align="center">2022 ©️ mustaquenadim</p>
