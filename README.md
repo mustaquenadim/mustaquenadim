@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&margin-w=10&no-frame=true" alt="mustaquenadim github profile trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&row=1&no-frame=true" alt="mustaquenadim github profile trophy" />
   </a>
 </p>
 <!-- end github profile trophy -->
