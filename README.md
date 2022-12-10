@@ -9,19 +9,19 @@
 
 <br/>
 
-<!-- :round_pushpin: I'm currently living in **Dhaka, Bangladesh**. -->
+:round_pushpin: Currently living in **Dhaka, Bangladesh**.
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
-:briefcase: I'm currently doing full time job at **JoulesLabs** as a **Software Engineer**.
+<!-- :briefcase: I'm currently doing full time job at **JoulesLabs** as a **Software Engineer**. -->
 
-:book: I like to explore **new technologies and develop software solutions**.
+:book: Like to explore **new technologies** and build **software solutions**.
 
-:seedling: I’m currently focusing on learning **data structures and algorithms**.
+:seedling: Focusing on learning **data structures and algorithms** and solving **programming problem**.
 
 <!-- 🤝  I’m looking for help with **fixing bugs.** -->
 
-👨‍💻 All of my projects are available in my [**website**](https://mustaquenadim.web.com/).
+👨‍💻 All of my projects are available in my [**website**](https://mustaquenadim.com/).
 
 📝 I write articles on [**Medium**](https://mustaquenadim.medium.com/).
 
@@ -29,7 +29,7 @@
 
 📫 Reach me through **mustaquenadim2000@gmail.com**.
 
-📄 Know about my experiences in my [**resume**](https://drive.google.com/file/d/1l19oDa1ex8smg7srFmiJnMwznrv5hoxh/view?usp=sharing)
+📄 Know about my experiences in my [**resume**](https://mustaquenadim.com/Mustaque-Nadim-Software-Engineer-Resume.pdf)
 
 <!-- ⚡  Fun fact **I'm idle so that I always try to code short.** -->
 
@@ -67,7 +67,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaquenadim&background=003855&currStreakNum=67e26d&ring=67e26d&fire=67e26d&currStreakLabel=67e26d&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" alt="mustaquenadim github streak stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaquenadim&custom_title=GitHub Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&custom_title=GitHub%20%Stats&show_icons=true&locale=en&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim github stats" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaquenadim&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="mustaquenadim most used languages" />
@@ -104,7 +104,7 @@
   <a href="https://www.linkedin.com/in/mustaquenadim/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/developernadim/">
+  <a href="https://twitter.com/MNadimOfficial/">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.instagram.com/mustaquenadim/">
