@@ -1,0 +1,35 @@
+name: "Auto-update copyright year"
+
+# run once a day (git costs are minimal); the script will only commit when the year changes
+on:
+    schedule:
+        - cron: "0 0 * * *" # every day at midnight UTC
+    push:
+        branches:
+            - main
+
+jobs:
+    bump-year:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  persist-credentials: true # so we can push commits
+
+            - name: Replace year in README
+              run: |
+                  year=$(date +'%Y')
+                  # assumes the copyright line is alone on its own paragraph
+                  sed -i "s/[0-9]\{4\} ©️ mustaquenadim/${year} ©️ mustaquenadim/" README.md
+
+            - name: Commit & push if changed
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  if ! git diff --quiet; then
+                    git add README.md
+                    git commit -m "chore: bump copyright year to $year"
+                    git push
+                  else
+                    echo "no changes to commit"
+                  fi
