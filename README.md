@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustaquenadim&theme=flat&row=1&no-frame=true" alt="mustaquenadim github profile trophy" />
+    <img src="https://github-profile-repo.vercel.app/?username=mustaquenadim&theme=flat&row=1&no-frame=true" alt="mustaquenadim github profile trophy" />
   </a>
 </p>
 <!-- end github profile trophy -->
@@ -101,10 +101,13 @@
 <br/>
 
 <p align="center">
+  <a href="mailto:hello@mustaquenadim.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/mustaquenadim/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/MNadimOfficial/">
+  <a href="https://twitter.com/0xmustaquenadim/">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.instagram.com/mustaquenadim/">
