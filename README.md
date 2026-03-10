@@ -9,25 +9,23 @@
 
 <!-- about me -->
 
-<p>Hi, my name is <b>Mustaque Nadim</b>. I'm a passionate programmer from <b>Bangladesh</b> (Currently based in <b>Riyadh, Saudi Arabia</b>) with <i>entrepreneurial spirit</i>, experienced in building scalable software solutions driven forward by problem solving.</p>
+<p>Hi 👋 my name is <a href="https://mustaquenadim.com/" target="_blank" rel="noopener">Mustaque Nadim</a>. I'm a passionate programmer from <b>Bangladesh</b> (Currently based in <b>Riyadh, Saudi Arabia</b>) with <i>entrepreneurial spirit</i>, experienced in building scalable software solutions driven forward by problem solving.</p>
 
 <!-- <h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2> -->
 
-:round_pushpin: Currently living in **Riyadh, Saudi Arabia**
+<!-- :round_pushpin: Currently living in **Riyadh, Saudi Arabia** -->
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
-:briefcase: I'm currently doing full time job at **Visiontillion** as a **Engineering Manager**.
+:briefcase: I'm currently working as a **Engineering Manager** at [**Visiontillion**](https://www.visiontillion.com/).
 
-:book: Love to explore **new technologies** and build **solutions**.
-
-:seedling: Observing the AI movement worldwide.
+:seedling: Exploring more about **Artificial Intelligence**.
 
 <!-- 🤝  I’m looking for help with **fixing bugs.** -->
 
 👨‍💻 All of my projects are available in my [**website**](https://mustaquenadim.com/).
 
-📝 I write articles on [**Medium**](https://mustaquenadim.medium.com/).
+📝 I write technical content on [**Medium**](https://mustaquenadim.medium.com/).
 
 <!-- 🏫 I help people to learn **C, C++, JavaScript, React.js, Node.js, Express.js, MongoDB**, etc. -->
 
@@ -37,7 +35,7 @@
 
 <!-- ⚡  Fun fact **I'm idle so that I always try to code short.** -->
 
-:runner: I workout **every morning**.
+<!-- :runner: I workout **every morning**. -->
 
 <!-- end about me -->
 
