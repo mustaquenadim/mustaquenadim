@@ -70,7 +70,7 @@
   <img align="center" src="profile/top-langs.svg" alt="Most used languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/github-contribution-grid-snake.svg" alt="mustaquenadim contribution grid snake animation" />
+  <img align="center" src="https://github.com/mustaquenadim/mustaquenadim/blob/output/snake.svg" alt="mustaquenadim contribution grid snake animation" />
 </p>
 <!-- end github analytics -->
 
