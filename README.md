@@ -1,5 +1,5 @@
 <!-- cover image -->
-<img width="1640" height="924" alt="Mustaque Nadim Media Cover" src="https://github.com/user-attachments/assets/9e4017a2-b4a4-47f9-8358-a21fd0e1dff2" />
+<img alt="Mustaque Nadim Media Cover" src="https://github.com/user-attachments/assets/9e4017a2-b4a4-47f9-8358-a21fd0e1dff2" />
 <!-- end cover image -->
 
 <br/>
