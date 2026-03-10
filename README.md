@@ -7,15 +7,16 @@
 <br/>
 
 <!-- about me -->
-<h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
 
-<br/>
+<p>Hi, my name is <b>Mustaque Nadim</b>. I'm a passionate programmer from <b>Bangladesh</b> (Currently based in <b>Riyadh, Saudi Arabia</b>) with <i>entrepreneurial spirit</i>, experienced in building scalable software solutions driven forward by problem solving.</p>
+
+<!-- <h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2> -->
 
 :round_pushpin: Currently living in **Riyadh, Saudi Arabia**
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
-<!-- :briefcase: I'm currently doing full time job at **JoulesLabs** as a **Software Engineer**. -->
+:briefcase: I'm currently doing full time job at **Visiontillion** as a **Engineering Manager**.
 
 :book: Love to explore **new technologies** and build **solutions**.
 
@@ -43,19 +44,28 @@
 <br/>
 
 <!-- language & tools -->
-<h2 align="center">🛠 Languages and Tools 🛠</h2>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,gatsby,electron,angular,next,remix,redux,adonis,html,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,markdown" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=jest,jenkins" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,graphql,mongodb,prisma,postgresql,supabase,firebase,postman,redis" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,git,github,githubactions,vscode,linux,docker,aws,cloudflare" />
 </p>
 <!-- end language & tools -->
 
