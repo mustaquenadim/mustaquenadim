@@ -1,5 +1,7 @@
 <!-- cover image -->
-<img alt="Mustaque Nadim Media Cover" src="https://github.com/user-attachments/assets/9e4017a2-b4a4-47f9-8358-a21fd0e1dff2" />
+<a href="https://mustaquenadim.com/" target="_blank" rel="noopener">
+  <img alt="Mustaque Nadim Media Cover" src="https://github.com/user-attachments/assets/9e4017a2-b4a4-47f9-8358-a21fd0e1dff2" />
+</a>
 <!-- end cover image -->
 
 <br/>
