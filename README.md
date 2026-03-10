@@ -9,15 +9,15 @@
 
 <br/>
 
-:round_pushpin: Currently living in **Dhaka, Bangladesh**.
+:round_pushpin: Currently living in **Riyadh, Saudi Arabia**
 
 <!-- :mortar_board: I dropped out from **university (Computer Science, University of the People)**. -->
 
 <!-- :briefcase: I'm currently doing full time job at **JoulesLabs** as a **Software Engineer**. -->
 
-:book: Like to explore **new technologies** and build **software solutions**.
+:book: Love to explore **new technologies** and build **solutions**.
 
-:seedling: Focusing on learning **data structures and algorithms** and solving **programming problem**.
+:seedling: Observing the AI movement worldwide.
 
 <!-- 🤝  I’m looking for help with **fixing bugs.** -->
 
@@ -25,11 +25,11 @@
 
 📝 I write articles on [**Medium**](https://mustaquenadim.medium.com/).
 
-🏫 I help people to learn **C, C++, JavaScript, React.js, Node.js, Express.js, MongoDB**, etc.
+<!-- 🏫 I help people to learn **C, C++, JavaScript, React.js, Node.js, Express.js, MongoDB**, etc. -->
 
-📫 Reach me through **mustaquenadim2000@gmail.com**.
+📫 Reach me through **[hello@mustaquenadim.com](mailto:hello@mustaquenadim.com)**.
 
-📄 Know about my experiences in my [**resume**](https://mustaquenadim.com/Mustaque-Nadim-Software-Engineer-Resume.pdf)
+<!-- 📄 Know about my experiences in my [**resume**](https://mustaquenadim.com/Mustaque-Nadim-Software-Engineer-Resume.pdf) -->
 
 <!-- ⚡  Fun fact **I'm idle so that I always try to code short.** -->
 
